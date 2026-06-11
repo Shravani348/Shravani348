@@ -3,7 +3,7 @@
 <h1>Shravani Paralkar</h1>
 
 <p>
-  <strong>B.E. Information Technology Student</strong> · Dr. D. Y. Patil Institute of Technology · CGPA 9.0
+  <strong>B.E. Information Technology</strong> · Dr. D. Y. Patil Institute of Technology · CGPA 9.0
 </p>
 
 <p>
