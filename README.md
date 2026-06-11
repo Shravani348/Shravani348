@@ -1,15 +1,14 @@
 <div align="center">
 
-<!-- BANNER: Create a 1280×320px banner in Canva with:
-     - Dark navy gradient background (#0D1117 → #161B30)
-     - Name "Shravani Paralkar" in Poppins Bold, white
-     - Subtitle in muted teal (#64FFDA): "IT Student · Web Dev · ML"
-     - Subtle circuit/geometric pattern overlay at ~8% opacity
-     Upload to your repo as banner.png and update the src below -->
+<h1>Shravani Paralkar</h1>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=64FFDA&center=true&vCenter=true&width=540&lines=IT+Engineering+Student+%40+DYPIT;Web+Dev+%7C+ML+%7C+Android;Building+real+projects%2C+one+commit+at+a+time" alt="Typing SVG" />
-</a>
+<p>
+  <strong>B.E. Information Technology Student</strong> · Dr. D. Y. Patil Institute of Technology · CGPA 9.0
+</p>
+
+<p>
+  Web Development &nbsp;|&nbsp; Machine Learning &nbsp;|&nbsp; Android Development
+</p>
 
 <br/>
 
@@ -25,7 +24,7 @@
 
 I'm **Shravani Paralkar**, a B.E. Information Technology student at Dr. D. Y. Patil Institute of Technology (CGPA 9.0), currently in my second year.
 
-My work so far covers web development (Django, Flask, HTML/CSS/JS), a hybrid ML-based recommendation system, financial analytics tools, and an Android news app — all built end-to-end as hands-on learning projects.
+My work covers web development (Django, Flask, HTML/CSS/JS), a hybrid ML-based recommendation system, financial analytics tools, and an Android news app — all built end-to-end as hands-on learning projects.
 
 Previously completed a **Diploma in Computer Engineering** with 93.6% and a **Web Development Internship** at ICEICO Technologies, where I worked on real frontend projects.
 
@@ -83,18 +82,21 @@ Currently focused on deepening my skills in **full-stack web development**, **ap
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shravani348&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravani348&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shravani348&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400)
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Shravani348&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![Profile Views](https://komarev.com/ghpvc/?username=Shravani348&style=flat-square&color=64FFDA&label=Profile+Views)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/Shravani348?style=flat-square&color=64FFDA&label=Followers)
+&nbsp;
+![Repos](https://img.shields.io/badge/Public_Repos-3-64FFDA?style=flat-square)
 
 </div>
 
@@ -109,10 +111,3 @@ Currently focused on deepening my skills in **full-stack web development**, **ap
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shravani348)
 
 </div>
-
----
-
-<div align="center">
-<sub>Profile views: <img src="https://komarev.com/ghpvc/?username=Shravani348&style=flat-square&color=64FFDA" /></sub>
-</div>
-
