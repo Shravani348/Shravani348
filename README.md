@@ -6,7 +6,7 @@
 
 Interested in **Software Engineering, Backend Development, REST APIs, Databases, and Machine Learning**. Currently strengthening **Java, Spring Boot, SQL, and Data Structures & Algorithms** through hands-on projects.
 
-[GitHub](https://github.com/Shravani348) · [LinkedIn](https://www.linkedin.com/) · [Email](mailto:paralkarshravani83@gmail.com)
+[GitHub](https://github.com/Shravani348) · [LinkedIn](https://www.linkedin.com/) · [Email](mailto:paralkarshravani83@gmail.com) 
 
 ---
 
